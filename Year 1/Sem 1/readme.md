@@ -17,7 +17,7 @@ This semester introduced me to the fundamentals of computing, programming, mathe
 
 ---
 
-## 💻 Programming Technique I (SECJ1013)
+## 💻 Programming Technique I
 
 ### Course Overview
 Programming Technique I introduced the fundamentals of programming using C++. The course covered problem-solving techniques, program design, variables, control structures, functions, arrays, pointers, and file handling.
@@ -27,7 +27,7 @@ Programming Technique I was my first exposure to programming and became one of t
 
 ---
 
-## ⚡ Digital Logic (SECJ1023)
+## ⚡ Digital Logic
 
 ### Course Overview
 Digital Logic focused on the principles of digital systems, including number systems, Boolean algebra, logic gates, combinational circuits, and sequential circuits.
@@ -37,7 +37,7 @@ This course helped me understand how computers operate at the hardware level. Le
 
 ---
 
-## 🔢 Discrete Structure (SECI1013)
+## 🔢 Discrete Structure
 
 ### Course Overview
 Discrete Structure introduced mathematical concepts used in computer science, including logic, sets, relations, functions, counting techniques, recursion, and graph theory.
@@ -47,7 +47,7 @@ Discrete Structure challenged me to think more critically and mathematically whe
 
 ---
 
-## 🌐 Technology & Information System (SECP1513)
+## 🌐 Technology & Information System
 
 ### Course Overview
 Technology & Information System provided an overview of information technology, computer systems, software, networking, cybersecurity, and emerging technologies.

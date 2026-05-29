@@ -11,9 +11,9 @@ This semester marked the beginning of my specialization in Data Engineering by i
 | Course | Repository |
 |----------|----------|
 | Object-Oriented Programming | [Open Repository](./OOP) |
-| Operating Systems | [Open Repository](./Operating%20Systems) |
-| Data Analytic Programming | [Open Repository](./Data-Analytic-Programming) |
-| Data Mining | [Open Repository](./Data-Mining) |
+| Operating Systems | [Open Repository](./Operating-Systems) |
+| Data Analytic Programming | [Open Repository](./Data%20Analytic%20Programming) |
+| Data Mining | [Open Repository](./Data%20Mining) |
 
 ---
 

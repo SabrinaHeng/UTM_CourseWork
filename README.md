@@ -54,7 +54,6 @@ Fundamental computer science courses including:
 - Digital Logic
 - Discrete Structure
 - Technology and Information Systems
-- Data Structures and Algorithms
 
 ---
 
@@ -63,8 +62,9 @@ Fundamental computer science courses including:
 Intermediate software development and database courses:
 
 - Object-Oriented Programming
-- Database Systems
-- Web Programming
+- Data Structures and Algorithms
+- Database
+- System Development Technique
 - Software Engineering
 
 ---

@@ -24,13 +24,11 @@ Throughout Year 1, I developed fundamental knowledge in:
 
 ## 🌱 Semester 1
 
-📂 Open Semester 1 → [Semester 1](./Sem%201)
-
 ### Courses
 
 | Course | Link |
 |----------|----------|
-| Programming Technique I | [Open](./Sem%201/Programming%20Technique%20I) |
+| Programming Technique I | [Open](Programming-Technique-1) |
 | Digital Logic | [Open](./Sem%201/Digital%20Logic) |
 | Discrete Structure | [Open](./Sem%201/Discrete%20Structure) |
 | Technology & Information System | [Open](./Sem%201/Technology%20and%20Information%20System) |

@@ -12,8 +12,8 @@ This semester focused on core software development concepts, database management
 |----------|----------|
 | Data Structure & Algorithms | [Open Repository](./DSA) |
 | Database | [Open Repository](./Database) |
-| Network Communication | [Open Repository](./Network-Communication) |
-| System Development Technique | [Open Repository](./System-Development-Technique) |
+| Network Communication | [Open Repository](./Network%20Communication) |
+| System Development Technique | [Open Repository](./SDT) |
 | Software Engineering | [Open Repository](./Software-Engineering) |
 
 ---

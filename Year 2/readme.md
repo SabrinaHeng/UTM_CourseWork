@@ -30,7 +30,7 @@ Year 2 focused on strengthening my software development, database management, an
 | Course | Link |
 |----------|----------|
 | Object-Oriented Programming | [Open](./Sem%202/OOP) |
-| Operating Systems | [Open](./Sem%202/Operating-System) |
+| Operating Systems | [Open](./Sem%202/Operating%20System) |
 | Data Analytic Programming | [Open](./Sem%202/Data%20Analytic%20Programming) |
 | Data Mining | [Open](./Sem%202/Data%20Mining) |
 

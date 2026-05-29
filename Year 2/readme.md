@@ -14,10 +14,10 @@ Year 2 focused on strengthening my software development, database management, an
 
 | Course | Link |
 |----------|----------|
-| Data Structure & Algorithms | [Open](./Sem%203/DSA) |
-| Database | [Open](./Sem%203/Database) |
-| System Development Technique | [Open](./Sem%203/SDT) |
-| Software Engineering | [Open](./Sem%204/Software-Engineering) |
+| Data Structure & Algorithms | [Open](./Sem%201/DSA) |
+| Database | [Open](./Sem%201/Database) |
+| System Development Technique | [Open](./Sem%201/SDT) |
+| Software Engineering | [Open](./Sem%201/Software-Engineering) |
 
 
 ---
@@ -28,10 +28,10 @@ Year 2 focused on strengthening my software development, database management, an
 
 | Course | Link |
 |----------|----------|
-| Object-Oriented Programming | [Open](./Sem%203/OOP) |
-| Operating Systems | [Open](./Sem%204/Operating-System) |
-| Data Analytic Programming | [Open](./Sem%204/Data%20Analytic%20Programming) |
-| Data Mining | [Open](./Sem%204/Data%20Mining) |
+| Object-Oriented Programming | [Open](./Sem%202/OOP) |
+| Operating Systems | [Open](./Sem%202/Operating-System) |
+| Data Analytic Programming | [Open](./Sem%202/Data%20Analytic%20Programming) |
+| Data Mining | [Open](./Sem%202/Data%20Mining) |
 
 ---
 

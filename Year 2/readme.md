@@ -16,6 +16,7 @@ Year 2 focused on strengthening my software development, database management, an
 |----------|----------|
 | Data Structure & Algorithms | [Open](./Sem%201/DSA) |
 | Database | [Open](./Sem%201/Database) |
+| Network Communication | [Open](./Sem%201/Network%20Communication) |
 | System Development Technique | [Open](./Sem%201/SDT) |
 | Software Engineering | [Open](./Sem%201/Software-Engineering) |
 

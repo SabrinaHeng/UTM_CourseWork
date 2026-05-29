@@ -50,14 +50,13 @@ Throughout Year 1, I developed fundamental knowledge in:
 
 # 📝 Reflection
 
-Year 1 was the foundation of my journey in Computer Science.
+During my first year in the Bachelor of Computer Science (Data Engineering) programme at Universiti Teknologi Malaysia, I built a strong foundation in both theoretical and practical aspects of computing. Through courses such as Programming Technique, Digital Logic, Discrete Structure, and Computer Organization & Architecture, I gained essential knowledge of programming concepts, problem-solving techniques, and computer systems.
 
-I learned how to approach problems systematically, write structured programs, and work collaboratively on academic projects. The experience strengthened my interest in software development and data engineering while helping me build essential technical and professional skills for future coursework.
+One of the most valuable experiences was learning programming for the first time. Developing applications and solving coding challenges improved my logical thinking, analytical skills, and perseverance when facing complex problems. I also learned the importance of writing structured and efficient code, which became the foundation for more advanced subjects in later years.
 
----
+In addition to technical knowledge, I developed teamwork, communication, and time management skills through group assignments and project-based learning. These experiences taught me how to collaborate effectively with others, manage deadlines, and continuously improve my learning approach.
 
-<div align="center">
+Overall, Year 1 was an important stepping stone in my academic journey. It strengthened my interest in software development, data engineering, and emerging technologies while preparing me for more advanced courses and real-world projects in the years ahead.
 
-### ⭐ Building Strong Foundations for Future Learning
 
 </div>

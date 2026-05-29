@@ -43,7 +43,7 @@ Throughout Year 1, I developed fundamental knowledge in:
 |----------|----------|
 | Computer Organization & Architecture | [Open](./Sem%202/COA) |
 | Probability & Statistical Data Analysis | [Open](./Sem%202/PSDA) |
-| Programming Technique I | [Open](./Sem%202/PT2) |
+| Programming Technique II | [Open](./Sem%202/PT2) |
 | System Analysis & Design | [Open](./Sem%202/SAD) |
 
 ---

@@ -13,10 +13,8 @@ Throughout Year 1, I developed fundamental knowledge in:
 - Programming
 - Problem Solving
 - Computer Systems
-- Database Concepts
 - Web Technologies
 - Mathematics for Computing
-- Communication & Professional Skills
 
 ---
 
@@ -46,36 +44,7 @@ Throughout Year 1, I developed fundamental knowledge in:
 | Computer Organization & Architecture | [Open](./Sem%202/COA) |
 | Probability & Statistical Data Analysis | [Open](./Sem%202/PSDA) |
 | Programming Technique I | [Open](./Sem%202/PT2) |
-| Probability & Statistics | [Open](./Sem%202/Probability%20and%20Statistics) |
-
----
-
-# 🎯 Skills Acquired
-
-### Programming
-
-- C++
-- Java
-- Python Fundamentals
-
-### Software Development
-
-- Object-Oriented Programming
-- Software Design Thinking
-- Debugging Techniques
-
-### Database
-
-- SQL
-- Relational Database Concepts
-- Data Modelling
-
-### Professional Skills
-
-- Teamwork
-- Presentation Skills
-- Report Writing
-- Communication
+| System Analysis & Design | [Open](./Sem%202/SAD) |
 
 ---
 

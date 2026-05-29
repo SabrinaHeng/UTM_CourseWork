@@ -43,9 +43,9 @@ Throughout Year 1, I developed fundamental knowledge in:
 
 | Course | Link |
 |----------|----------|
-| Object-Oriented Programming | [Open](./Sem%202/Object-Oriented%20Programming) |
-| Data Structures & Algorithms | [Open](./Sem%202/Data%20Structures%20and%20Algorithms) |
-| Database Systems | [Open](./Sem%202/Database%20Systems) |
+| Computer Organization & Architecture | [Open](./Sem%202/COA) |
+| Probability & Statistical Data Analysis | [Open](./Sem%202/PSDA) |
+| Programming Technique I | [Open](./Sem%202/PT2) |
 | Probability & Statistics | [Open](./Sem%202/Probability%20and%20Statistics) |
 
 ---

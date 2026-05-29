@@ -28,7 +28,7 @@ Throughout Year 1, I developed fundamental knowledge in:
 
 | Course | Link |
 |----------|----------|
-| Programming Technique I | [Open](Programming-Technique-1) |
+| Programming Technique I | [Open](https://github.com/SabrinaHeng/Programming-Technique-1) |
 | Digital Logic | [Open](./Sem%201/Digital%20Logic) |
 | Discrete Structure | [Open](./Sem%201/Discrete%20Structure) |
 | Technology & Information System | [Open](./Sem%201/Technology%20and%20Information%20System) |

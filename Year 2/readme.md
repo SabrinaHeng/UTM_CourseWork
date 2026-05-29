@@ -14,8 +14,10 @@ Year 2 focused on strengthening my software development, database management, an
 
 | Course | Link |
 |----------|----------|
-| Object-Oriented Programming | [Open](./Sem%203/OOP) |
 | Data Structure & Algorithms | [Open](./Sem%203/DSA) |
+| Database | [Open](./Sem%203/Database) |
+| System Development Technique | [Open](./Sem%203/SDT) |
+| Software Engineering | [Open](./Sem%204/Software-Engineering) |
 
 
 ---
@@ -26,10 +28,7 @@ Year 2 focused on strengthening my software development, database management, an
 
 | Course | Link |
 |----------|----------|
-| Database | [Open](./Sem%203/Database) |
-| System Development Technique | [Open](./Sem%203/SDT) |
-| Software Engineering | [Open](./Sem%204/Software-Engineering) |
-| Human Computer Interaction | [Open](./Sem%204/HCI) |
+| Object-Oriented Programming | [Open](./Sem%203/OOP) |
 | Operating Systems | [Open](./Sem%204/Operating-System) |
 
 ---

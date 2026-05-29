@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "6598f122c2b5a12345678914"
+  },
+  "org_name": "SEA Finance Hub",
+  "contact_email": "events@seafinance.com",
+  "website": "https://seafinance.com",
+  "rating": 4.7,
+  "specialization": [
+    "Fintech",
+    "Blockchain",
+    "Digital Banking"
+  ],
+  "verified_status": true
+},
+{
+  "_id": {
+    "$oid": "6598f122c2b5a12345678910"
+  },
+  "org_name": "UTM Faculty of Computing",
+  "contact_email": "info@computing.utm.my",
+  "website": "https://computing.utm.my",
+  "rating": 4.9,
+  "specialization": [
+    "Cloud Computing",
+    "NoSQL Databases",
+    "Software Engineering"
+  ],
+  "established_year": 1981
+},
+{
+  "_id": {
+    "$oid": "6598f122c2b5a12345678912"
+  },
+  "org_name": "Global Data Institute",
+  "contact_email": "hello@datainstitute.org",
+  "website": "https://datainstitute.org",
+  "rating": 4.6,
+  "specialization": [
+    "Data Engineering",
+    "Big Data Analytics",
+    "AI Ethics"
+  ],
+  "verified_status": true,
+  "location": "Kuala Lumpur, Malaysia"
+},
+{
+  "_id": {
+    "$oid": "6598f122c2b5a12345678913"
+  },
+  "org_name": "Tech Summit Asia",
+  "contact_email": "contact@techsummit.asia",
+  "website": "https://techsummit.asia",
+  "rating": 4.7,
+  "specialization": [
+    "Artificial Intelligence",
+    "Robotics",
+    "Future Tech"
+  ],
+  "social_media": [
+    {
+      "platform": "LinkedIn",
+      "handle": "tech-summit-asia"
+    },
+    {
+      "platform": "Twitter",
+      "handle": "@TechSummitAsia"
+    }
+  ]
+}]

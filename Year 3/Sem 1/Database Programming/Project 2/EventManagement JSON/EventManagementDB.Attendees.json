@@ -1,0 +1,148 @@
+[{
+  "_id": {
+    "$oid": "695cd174a392d4601b884d9c"
+  },
+  "name": "Brendan Chia",
+  "email": "yan04@graduate.utm.my",
+  "type": "Student",
+  "registered_events": [
+    {
+      "$oid": "695cc07afc9b8ea1d1024a15"
+    },
+    {
+      "$oid": "695cc77ca392d4601b884d95"
+    }
+  ],
+  "interests": [
+    "Cloud",
+    "AI"
+  ]
+},
+{
+  "_id": {
+    "$oid": "695cd174a392d4601b884d9d"
+  },
+  "name": "Sarah Tan",
+  "email": "sarah.tan@techcorp.com",
+  "type": "Professional",
+  "registered_events": [
+    {
+      "$oid": "695cc388fc9b8ea1d1024a16"
+    },
+    {
+      "$oid": "695cca0aa392d4601b884d96"
+    }
+  ],
+  "interests": [
+    "Data Engineering",
+    "Fintech"
+  ]
+},
+{
+  "_id": {
+    "$oid": "695cd174a392d4601b884d9f"
+  },
+  "name": "Kevin Wong",
+  "email": "kevin.wong@startup.io",
+  "type": "Professional",
+  "registered_events": [
+    {
+      "$oid": "695cca0aa392d4601b884d96"
+    }
+  ],
+  "interests": [
+    "Fintech",
+    "Startups"
+  ]
+},
+{
+  "_id": {
+    "$oid": "695cd174a392d4601b884da0"
+  },
+  "name": "Eunice Lim",
+  "email": "eunice.lim@gmail.com",
+  "type": "General",
+  "registered_events": [
+    {
+      "$oid": "695cc77ca392d4601b884d95"
+    }
+  ],
+  "interests": [
+    "Robotics",
+    "Innovation"
+  ]
+},
+{
+  "_id": {
+    "$oid": "695cd174a392d4601b884da1"
+  },
+  "name": "David Chen",
+  "email": "d.chen@gmail.com",
+  "type": "Professional",
+  "registered_events": [
+    {
+      "$oid": "695cc07afc9b8ea1d1024a15"
+    },
+    {
+      "$oid": "695cc520fc9b8ea1d1024a18"
+    }
+  ],
+  "interests": [
+    "Azure",
+    "Cloud"
+  ]
+},
+{
+  "_id": {
+    "$oid": "695cd174a392d4601b884da2"
+  },
+  "name": "Dheshiegan",
+  "email": "dheshiegan.m@graduate.utm.my",
+  "type": "Student",
+  "registered_events": [
+    {
+      "$oid": "695cc388fc9b8ea1d1024a16"
+    }
+  ],
+  "interests": [
+    "AI",
+    "Data Science"
+  ]
+},
+{
+  "_id": {
+    "$oid": "695cd174a392d4601b884da3"
+  },
+  "name": "Jason Lee",
+  "email": "jason.lee@gmail.com",
+  "type": "General",
+  "registered_events": [
+    {
+      "$oid": "695cc07afc9b8ea1d1024a15"
+    },
+    {
+      "$oid": "695cca0aa392d4601b884d96"
+    }
+  ],
+  "interests": [
+    "Workshop",
+    "Security"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6962178020e4e62c9ac28250"
+  },
+  "name": "Poh Lok Yee",
+  "email": "lokyee@gmail.com",
+  "type": "Student",
+  "registered_events": [
+    {
+      "$oid": "695cc07afc9b8ea1d1024a15"
+    }
+  ],
+  "interests": [
+    "Cloud",
+    "DevOps"
+  ]
+}]

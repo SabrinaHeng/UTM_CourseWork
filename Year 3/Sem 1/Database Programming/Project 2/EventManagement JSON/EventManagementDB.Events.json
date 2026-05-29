@@ -1,0 +1,198 @@
+[{
+  "_id": {
+    "$oid": "695cc07afc9b8ea1d1024a15"
+  },
+  "title": "Cloud-Native Development Workshop",
+  "category": "Technology",
+  "date": {
+    "$date": "2026-03-15T09:00:00.000Z"
+  },
+  "venue_id": {
+    "$oid": "6598ef01c2b5a12345678901"
+  },
+  "organizer_id": {
+    "$oid": "6598f122c2b5a12345678910"
+  },
+  "description": "Hands-on session regarding Azure and MongoDB Atlas integration.",
+  "schedule": [
+    {
+      "time": "09:00 AM",
+      "activity": "Introduction to NoSQL"
+    },
+    {
+      "time": "11:00 AM",
+      "activity": "Hands-on Lab: CRUD Operations"
+    },
+    {
+      "time": "02:00 PM",
+      "activity": "Advanced Aggregations"
+    }
+  ],
+  "tickets": [
+    {
+      "type": "Student",
+      "price": 25,
+      "available_seats": 30
+    },
+    {
+      "type": "Professional",
+      "price": 100,
+      "available_seats": 50
+    }
+  ],
+  "tags": [
+    "Cloud",
+    "Database",
+    "UTM",
+    "Workshop"
+  ]
+},
+{
+  "_id": {
+    "$oid": "695cc388fc9b8ea1d1024a16"
+  },
+  "title": "Future of Data Engineering Seminar",
+  "category": "Education",
+  "date": {
+    "$date": "2026-04-10T10:00:00.000Z"
+  },
+  "venue_id": {
+    "$oid": "6598ef01c2b5a12345678903"
+  },
+  "organizer_id": {
+    "$oid": "6598f122c2b5a12345678912"
+  },
+  "description": "A deep dive into the evolution of data architecture in the AI era.",
+  "schedule": [
+    {
+      "time": "10:00 AM",
+      "activity": "Keynote Speech"
+    },
+    {
+      "time": "12:00 PM",
+      "activity": "Networking Lunch"
+    }
+  ],
+  "tickets": [
+    {
+      "type": "Standard",
+      "price": 200,
+      "available_seats": 100
+    }
+  ],
+  "tags": [
+    "Data Engineering",
+    "AI",
+    "Seminar"
+  ]
+},
+{
+  "_id": {
+    "$oid": "695cc77ca392d4601b884d95"
+  },
+  "title": "Global AI & Robotics Summit 2026",
+  "category": "Technology",
+  "date": {
+    "$date": "2026-05-05T09:00:00.000Z"
+  },
+  "venue_id": {
+    "$oid": "6598ef01c2b5a12345678901"
+  },
+  "organizer_id": {
+    "$oid": "6598f122c2b5a12345678913"
+  },
+  "description": "A premier gathering of industry leaders discussing the convergence of Generative AI and autonomous robotics.",
+  "schedule": [
+    {
+      "time": "09:00 AM",
+      "activity": "Keynote: The Future of AGl"
+    },
+    {
+      "time": "11:30 AM",
+      "activity": "Panel: Robotics in Manufacturing"
+    },
+    {
+      "time": "03:00 PM",
+      "activity": "Workshop: Building with LLMs"
+    }
+  ],
+  "tickets": [
+    {
+      "type": "Early Bird",
+      "price": 450,
+      "available_seats": 150
+    },
+    {
+      "type": "Standard",
+      "price": 850,
+      "available_seats": 300
+    },
+    {
+      "type": "VIP",
+      "price": 1500,
+      "available_seats": 50
+    }
+  ],
+  "tags": [
+    "Artificial Intelligence",
+    "Robotics",
+    "UTM Tech",
+    "Innovation"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6962251920e4e62c9ac28256"
+  },
+  "title": "AI Bootcamp 2026",
+  "category": "Education",
+  "date": {
+    "$date": "2026-06-01T09:00:00.000Z"
+  },
+  "venue_id": {
+    "$oid": "6598ef01c2b5a12345678901"
+  },
+  "organizer_id": {
+    "$oid": "6598f122c2b5a12345678913"
+  },
+  "description": "Join us, to learn more on AI in future!",
+  "schedule": [
+    {
+      "time": "08:30 AM",
+      "activity": "Regitration"
+    },
+    {
+      "time": "10.00 AM",
+      "activity": "Keynote: How AI changes future ?"
+    },
+    {
+      "time": "11.00 AM",
+      "activity": "Hands on session"
+    },
+    {
+      "time": "12.30 PM",
+      "activity": "Lunch Time"
+    },
+    {
+      "time": "2.00 PM",
+      "activity": "Photo session and Goodbye !"
+    }
+  ],
+  "tickets": [
+    {
+      "type": "Student",
+      "price": 10,
+      "available_seats": 100
+    },
+    {
+      "type": "Non-Student",
+      "price": 25,
+      "available_seats": 100
+    }
+  ],
+  "tags": [
+    "AI",
+    "ML",
+    "Workshop"
+  ]
+}]

@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6598ef01c2b5a12345678901"
+  },
+  "name": "UTM Convention Centre",
+  "address": "Skudai, 81310 Johor Bahru, Johor",
+  "capacity": 1000,
+  "facilities": [
+    "High-speed WiFi",
+    "Projectors",
+    "Sound System",
+    "VIP Lounge"
+  ],
+  "contact_number": "+60 7-553 3333"
+},
+{
+  "_id": {
+    "$oid": "6598ef01c2b5a12345678902"
+  },
+  "name": "Persada Johor International Convention Centre",
+  "address": "Jalan Abdullah Ibrahim, 80000 Johor Bahru",
+  "capacity": 3000,
+  "facilities": [
+    "Exhibition Hall",
+    "Catering Service",
+    "Parking",
+    "Video Conferencing"
+  ],
+  "contact_number": "+60 7-219 8888"
+},
+{
+  "_id": {
+    "$oid": "6598ef01c2b5a12345678903"
+  },
+  "name": "Kuala Lumpur Convention Centre (KLCC)",
+  "address": "Kuala Lumpur City Centre, 50088 Kuala Lumpur",
+  "capacity": 5000,
+  "facilities": [
+    "Auditorium",
+    "Ballroom",
+    "Digital Signage",
+    "5G Ready"
+  ],
+  "contact_number": "+60 3-2333 2888"
+}]

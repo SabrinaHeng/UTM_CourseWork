@@ -29,10 +29,9 @@ Throughout Year 1, I developed fundamental knowledge in:
 | Course | Link |
 |----------|----------|
 | Programming Technique I | [Open](https://github.com/SabrinaHeng/Programming-Technique-1) |
-| Digital Logic | [Open](./Sem%201/Digital%20Logic) |
-| Discrete Structure | [Open](./Sem%201/Discrete%20Structure) |
-| Technology & Information System | [Open](./Sem%201/Technology%20and%20Information%20System) |
-| Integrity and Anti-Corruption | [Open](./Sem%201/Integrity%20and%20Anti-Corruption) |
+| Digital Logic | [Open](https://github.com/SabrinaHeng/Digital-Logic) |
+| Discrete Structure | [Open](https://github.com/SabrinaHeng/Discrete-Structure) |
+| Technology & Information System | [Open](https://github.com/SabrinaHeng/Technology-Information-System) |
 
 ---
 
@@ -48,7 +47,6 @@ Throughout Year 1, I developed fundamental knowledge in:
 | Data Structures & Algorithms | [Open](./Sem%202/Data%20Structures%20and%20Algorithms) |
 | Database Systems | [Open](./Sem%202/Database%20Systems) |
 | Probability & Statistics | [Open](./Sem%202/Probability%20and%20Statistics) |
-| Professional Communication | [Open](./Sem%202/Professional%20Communication) |
 
 ---
 

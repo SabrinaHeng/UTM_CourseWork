@@ -15,7 +15,7 @@ Year 3 marked my transition into specialized Data Engineering and Analytics topi
 | Course | Link |
 |----------|----------|
 | Artificial Intelligence | [Open](./Sem%201/AI) |
-| Database Programming | [Open](./Sem%201/Database-Programming) |
+| Database Programming | [Open](./Sem%201/Database%20Programming) |
 | Enterprise Software Development Methodology (ESDM) | [Open](./Sem%201/ESDM) |
 
 ---
@@ -26,9 +26,9 @@ Year 3 marked my transition into specialized Data Engineering and Analytics topi
 
 | Course | Link |
 |----------|----------|
-| Data Analytics | [Open](./Sem%202/AD) |
+| Application Development | [Open](./Sem%202/AD) |
 | Business Intelligence | [Open](./Sem%202/BI) |
-| Special Topics in Data Engineering | [Open](./Sem%202/Special-Topics-Data-Engineering) |
+| Special Topics in Data Engineering | [Open](./Sem%202/Special%20Topics%20Data%20Engineering) |
 | High Performance Data Processing (HPDP) | [Open](./Sem%202/HPDP) |
 
 ---

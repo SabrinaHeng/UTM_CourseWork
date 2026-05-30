@@ -12,7 +12,7 @@ This semester focused on applying data engineering concepts to real-world scenar
 |----------|----------|
 | Application Development | [Open Repository](./AD) |
 | Business Intelligence | [Open Repository](./BI) |
-| Special Topics in Data Engineering | [Open Repository](./Special%20Topics%20Data%20Engineering) |
+| Special Topics in Data Engineering | [Open Repository](./Special%20Topic%20Data%20Engineering) |
 | High Performance Data Processing (HPDP) | [Open Repository](./HPDP) |
 
 ---

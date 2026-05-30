@@ -1,0 +1,250 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2025.2" RunE2="T">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="114" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\Sabrina\Desktop\Year 3\Sem 2\BI\LabExercise_Dataset\PSDA LIST ALL STUDENTS_AIMSWEB.xlsx|||`ALL STUDS PSDA$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>PSDA LIST ALL STUDENTS_AIMSWEB.xlsx
+Query=`ALL STUDS PSDA$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="NO.MATRIK" size="255" source="File: C:\Users\Sabrina\Desktop\Year 3\Sem 2\BI\LabExercise_Dataset\PSDA LIST ALL STUDENTS_AIMSWEB.xlsx|||`ALL STUDS PSDA$`" type="V_String" />
+            <Field name="SEC" size="255" source="File: C:\Users\Sabrina\Desktop\Year 3\Sem 2\BI\LabExercise_Dataset\PSDA LIST ALL STUDENTS_AIMSWEB.xlsx|||`ALL STUDS PSDA$`" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="114" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\Sabrina\Desktop\Year 3\Sem 2\BI\LabExercise_Dataset\SECI2143-00-MIDTERM TEST-grades.xlsx|||`SECI2143-00 MIDTERM TEST$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>SECI2143-00-MIDTERM TEST-grades.xlsx
+Query=`SECI2143-00 MIDTERM TEST$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="MatricNo" size="255" source="File: C:\Users\Sabrina\Desktop\Year 3\Sem 2\BI\LabExercise_Dataset\SECI2143-00-MIDTERM TEST-grades.xlsx|||`SECI2143-00 MIDTERM TEST$`" type="V_String" />
+            <Field name="Started on" size="255" source="File: C:\Users\Sabrina\Desktop\Year 3\Sem 2\BI\LabExercise_Dataset\SECI2143-00-MIDTERM TEST-grades.xlsx|||`SECI2143-00 MIDTERM TEST$`" type="V_String" />
+            <Field name="Completed" size="255" source="File: C:\Users\Sabrina\Desktop\Year 3\Sem 2\BI\LabExercise_Dataset\SECI2143-00-MIDTERM TEST-grades.xlsx|||`SECI2143-00 MIDTERM TEST$`" type="V_String" />
+            <Field name="Time taken" size="255" source="File: C:\Users\Sabrina\Desktop\Year 3\Sem 2\BI\LabExercise_Dataset\SECI2143-00-MIDTERM TEST-grades.xlsx|||`SECI2143-00 MIDTERM TEST$`" type="V_String" />
+            <Field name="Grade/50.00" size="255" source="File: C:\Users\Sabrina\Desktop\Year 3\Sem 2\BI\LabExercise_Dataset\SECI2143-00-MIDTERM TEST-grades.xlsx|||`SECI2143-00 MIDTERM TEST$`" type="V_String" />
+            <Field name="Q. 1 /10.00" size="255" source="File: C:\Users\Sabrina\Desktop\Year 3\Sem 2\BI\LabExercise_Dataset\SECI2143-00-MIDTERM TEST-grades.xlsx|||`SECI2143-00 MIDTERM TEST$`" type="V_String" />
+            <Field name="Q. 2 /10.00" size="255" source="File: C:\Users\Sabrina\Desktop\Year 3\Sem 2\BI\LabExercise_Dataset\SECI2143-00-MIDTERM TEST-grades.xlsx|||`SECI2143-00 MIDTERM TEST$`" type="V_String" />
+            <Field name="Q. 3 /5.00" size="255" source="File: C:\Users\Sabrina\Desktop\Year 3\Sem 2\BI\LabExercise_Dataset\SECI2143-00-MIDTERM TEST-grades.xlsx|||`SECI2143-00 MIDTERM TEST$`" type="V_String" />
+            <Field name="Q. 4 /5.00" size="255" source="File: C:\Users\Sabrina\Desktop\Year 3\Sem 2\BI\LabExercise_Dataset\SECI2143-00-MIDTERM TEST-grades.xlsx|||`SECI2143-00 MIDTERM TEST$`" type="V_String" />
+            <Field name="Q. 5 /3.00" size="255" source="File: C:\Users\Sabrina\Desktop\Year 3\Sem 2\BI\LabExercise_Dataset\SECI2143-00-MIDTERM TEST-grades.xlsx|||`SECI2143-00 MIDTERM TEST$`" type="V_String" />
+            <Field name="Q. 6 /7.00" size="255" source="File: C:\Users\Sabrina\Desktop\Year 3\Sem 2\BI\LabExercise_Dataset\SECI2143-00-MIDTERM TEST-grades.xlsx|||`SECI2143-00 MIDTERM TEST$`" type="V_String" />
+            <Field name="Q. 7 /10.00" size="255" source="File: C:\Users\Sabrina\Desktop\Year 3\Sem 2\BI\LabExercise_Dataset\SECI2143-00-MIDTERM TEST-grades.xlsx|||`SECI2143-00 MIDTERM TEST$`" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="282" y="138" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="NO.MATRIK" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="MatricNo" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Left_NO.MATRIK" selected="False" input="Left_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="498" y="30" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="NO.MATRIK" action="Count" rename="Number of student do not take midterm test" />
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="14">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="426" y="138" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="Trim([SEC],&quot;0&quot;)" field="SEC" size="255" type="V_String" enabled="true" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[SEC = Trim([SEC],"0")
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="15">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="558" y="138" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="25">C:\Users\Sabrina\Desktop\Year 3\Sem 2\BI\Student.xlsx|||Sec_</File>
+          <Passwords />
+          <Disable>False</Disable>
+          <FormatSpecificOptions>
+            <MipTenantId />
+            <PreserveFormat>False</PreserveFormat>
+            <MipSensitivity />
+            <UNCLocal>False</UNCLocal>
+            <SkipFieldNames>False</SkipFieldNames>
+            <SuppressBlankFile>False</SuppressBlankFile>
+            <OutputOption>Overwrite</OutputOption>
+          </FormatSpecificOptions>
+          <MultiFile value="True" />
+          <MultiFileType>Suffix</MultiFileType>
+          <MultiFileField>SEC</MultiFileField>
+          <KeepField value="True" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Student.xlsx
+Query=Sec_</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="6" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="6" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="6" Connection="Left" />
+      <Destination ToolID="9" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="6" Connection="Join" />
+      <Destination ToolID="14" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="Output" />
+      <Destination ToolID="15" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <DefaultTZ value="Local" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <IsTemplate value="False" />
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Exercise3</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="b2acd996-65eb-4574-b2a3-127b3d6b061d" />
+      <Telemetry>
+        <PreviousWorkflowId value="c841b2c1-9873-4530-8477-69ea7caf1855" />
+        <OriginWorkflowId value="c841b2c1-9873-4530-8477-69ea7caf1855" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

@@ -35,12 +35,14 @@ Year 3 marked my transition into specialized Data Engineering and Analytics topi
 
 # 📝 Reflection
 
-Year 3 represented the most specialized and exciting stage of my academic journey so far. Unlike previous years that focused on programming fundamentals and software development, this year emphasized the practical application of data engineering, analytics, and intelligent technologies.
+Year 3 represented the most specialized and exciting stage of my academic journey so far. Unlike previous years that focused primarily on programming fundamentals and software development, this year emphasized the practical application of data engineering, enterprise systems, artificial intelligence, and business intelligence technologies.
 
-Through courses such as Artificial Intelligence, Data Analytics, Data Mining, Business Intelligence, and High Performance Data Processing, I learned how data can be transformed into meaningful insights that support decision-making and innovation. These subjects strengthened my ability to analyze complex datasets, develop predictive models, and design solutions that address real-world challenges.
+Through courses such as Artificial Intelligence, Business Intelligence, High Performance Data Processing, and Special Topics in Data Engineering, I gained valuable insights into how modern organizations leverage data to drive innovation and support strategic decision-making. These subjects strengthened my ability to analyze information, identify patterns, and apply technology-driven solutions to real-world challenges.
 
-Database Programming and Enterprise Software Development Methodology also enhanced my understanding of large-scale system development and enterprise-level applications. Working on projects involving databases, analytics, and software systems helped me bridge the gap between theory and practical implementation.
+Application Development and Enterprise Software Development Methodology enhanced my understanding of software development processes, software architecture, and enterprise-level application design. Working on projects throughout the year allowed me to apply software engineering principles while improving my technical, analytical, and problem-solving skills.
 
-One of the most valuable lessons from Year 3 was recognizing the importance of data in modern technology. Whether through artificial intelligence, business intelligence, or high-performance processing, data serves as the foundation for innovation across industries. This realization further reinforced my passion for pursuing a career in Data Engineering and Analytics.
+Database Programming further deepened my knowledge of database systems, backend development, and data management. It reinforced the importance of efficient data storage, retrieval, and processing in modern applications, which are critical aspects of Data Engineering.
 
-Overall, Year 3 strengthened my technical expertise, analytical thinking, and problem-solving abilities while preparing me for industry challenges and future professional growth in the field of data and technology.
+One of the most valuable lessons from Year 3 was understanding how different technologies—ranging from artificial intelligence and business intelligence to high-performance data processing—work together to transform raw data into meaningful information. This strengthened my passion for Data Engineering and increased my interest in developing intelligent, data-driven solutions that create real impact.
+
+Overall, Year 3 significantly enhanced my technical expertise, critical thinking, and practical development skills. The knowledge and experience gained throughout this year have prepared me for future industry challenges and strengthened my aspiration to pursue a career in Data Engineering, Data Analytics, and Artificial Intelligence.
